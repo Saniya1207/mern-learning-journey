@@ -11,4 +11,11 @@ This repository contains my daily MERN Stack learning notes and projects.
 
 ## Progress
 
-- Day 01 - How The Web Works
+## Completed
+
+- ✅ Day 01 - How The Web Works
+- ✅ Day 02 - Internet, Browsers & DNS
+
+## Upcoming
+
+- ⏳ Day 03 - HTML Fundamentals
